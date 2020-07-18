@@ -1,2 +1,2 @@
-# Mafee6 microsft Teams Relauncher - Restarts Microst Teams.
+# Mafee6 - microsft Teams Relauncher - Restarts Microsoft Teams.
 #Dev: print k
